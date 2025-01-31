@@ -18,7 +18,7 @@
 - 📝 I regularly write articles on [University courses](https://informatica.dieti.unina.it)
 
 - ✍🏻 Perosnal notes:
-    - [LASD](https://github.com/FlorindoDev/LatexASDNotes) 
+    - []() 
 
 - 📫 How to reach me **raffa.raia@studenti.unina.it** **proraiaraffaele2@gmail.com**
 
