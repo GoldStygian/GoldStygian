@@ -9,16 +9,13 @@
 [![Matrix SVG](asset/matrix.svg)](asset/matrix.svg)
 ## University's project
 I’m currently working/ed on **University's project**:
-    - 🚀 [LASD project](https://github.com/GoldStygian/Project_Laboratory_of_Algorithms_and_DataStructure.git)
-    - 🚀 [OO-DB Project (FandomWiki)](https://github.com/GoldStygian/ProgettoOO.git)
-    - 🔜 DietiEstates25, Work in progress
-    - 🔜 LSO project, Work in progress
+- 🚀 [LASD project](https://github.com/GoldStygian/Project_Laboratory_of_Algorithms_and_DataStructure.git)
+- 🚀 [OO-DB Project (FandomWiki)](https://github.com/GoldStygian/ProgettoOO.git)
+- 🔜 DietiEstates25, Work in progress
+- 🔜 LSO project, Work in progress
 
 ## 🧑🏻‍💻 Personal project:
 - 🛠️ [Music Library](https://github.com/GoldStygian/Music_library.git)
-
-- ✍🏻 Perosnal notes:
-    - []() 
 
 - 📫 How to reach me **raffa.raia@studenti.unina.it** **proraiaraffaele2@gmail.com**
 
