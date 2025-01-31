@@ -3,6 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rennf93&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&theme=nord&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![Matrix SVG](assets/matrix.svg)](assets/matrix.svg)
+
 - 🔭 I’m currently working/ed on **University's project**:
     - 🚀 [ASD project](https://github.com/FlorindoDev/Laboratorio-Algoritmi-e-Strutture-dati-)
     - 🚀 [FandomWiki](https://github.com/FlorindoDev/SoftwereWiki)
