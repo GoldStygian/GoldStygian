@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working/ed on **University's project**:
     - 🚀 [LASD project](https://github.com/GoldStygian/Project_Laboratory_of_Algorithms_and_DataStructure.git)
-    - 🚀 [FandomWiki](https://github.com/GoldStygian/ProgettoOO.git)
+    - 🚀 [OO-DB Project (FandomWiki)](https://github.com/GoldStygian/ProgettoOO.git)
     - 🔜 DietiEstates25, Work in progress
     - 🔜 LSO project, Work in progress
       
