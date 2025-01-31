@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GoldStygian&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&theme=nord&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Matrix SVG](assets/matrix.svg)](assets/matrix.svg)
+[![Matrix SVG](assets/matrix.svg)](asset/matrix.svg)
 
 - 🔭 I’m currently working/ed on **University's project**:
     - 🚀 [ASD project](https://github.com/FlorindoDev/Laboratorio-Algoritmi-e-Strutture-dati-)
