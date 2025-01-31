@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raffaele Raia</h1>
+<h1 align="center">Hi I'm Raffaele Raia</h1>
 <h3 align="center">I am a student of the DEGREE COURSE IN COMPUTER SCIENCE AND TECHNOLOGY at the University of Naples Federico II</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -7,20 +7,20 @@
 [![Matrix SVG](asset/matrix.svg)](asset/matrix.svg)
 
 - 🔭 I’m currently working/ed on **University's project**:
-    - 🚀 [ASD project]()
-    - 🚀 [FandomWiki]()
+    - 🚀 [LASD project](https://github.com/GoldStygian/Project_Laboratory_of_Algorithms_and_DataStructure.git)
+    - 🚀 [FandomWiki - to link]()
     - 🔜 DietiEstates25, Work in progress
     - 🔜 LSO project, Work in progress
       
 - 🧑🏻‍💻 Personal project:
-    - 🚀 [ElementFinder]()
+    - 🚀 []()
 
 - 📝 I regularly write articles on [University courses](https://informatica.dieti.unina.it)
 
 - ✍🏻 Perosnal notes:
     - [LASD](https://github.com/FlorindoDev/LatexASDNotes) 
 
-- 📫 How to reach me **fl.zecconi@studenti.unina.it**
+- 📫 How to reach me **raffa.raia@studenti.unina.it** **proraiaraffaele2@gmail.com**
 
 <h2 align="left">🛠️ Skills:</h2>
 
