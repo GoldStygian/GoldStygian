@@ -7,8 +7,8 @@
 [![Matrix SVG](asset/matrix.svg)](asset/matrix.svg)
 
 - 🔭 I’m currently working/ed on **University's project**:
-    - 🚀 [ASD project](https://github.com/FlorindoDev/Laboratorio-Algoritmi-e-Strutture-dati-)
-    - 🚀 [FandomWiki](https://github.com/FlorindoDev/SoftwereWiki)
+    - 🚀 [ASD project]()
+    - 🚀 [FandomWiki]()
     - 🔜 DietiEstates25, Work in progress
     - 🔜 LSO project, Work in progress
       
