@@ -7,15 +7,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GoldStygian&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&theme=nord&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 [![Matrix SVG](asset/matrix.svg)](asset/matrix.svg)
-
-- 🔭 I’m currently working/ed on **University's project**:
+## University's project
+I’m currently working/ed on **University's project**:
     - 🚀 [LASD project](https://github.com/GoldStygian/Project_Laboratory_of_Algorithms_and_DataStructure.git)
     - 🚀 [OO-DB Project (FandomWiki)](https://github.com/GoldStygian/ProgettoOO.git)
     - 🔜 DietiEstates25, Work in progress
     - 🔜 LSO project, Work in progress
-      
-- 🧑🏻‍💻 Personal project:
-    - 🚀 []()
+
+## 🧑🏻‍💻 Personal project:
+- 🛠️ [Music Library](https://github.com/GoldStygian/Music_library.git)
 
 - ✍🏻 Perosnal notes:
     - []() 
