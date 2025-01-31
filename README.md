@@ -8,14 +8,12 @@
 
 - 🔭 I’m currently working/ed on **University's project**:
     - 🚀 [LASD project](https://github.com/GoldStygian/Project_Laboratory_of_Algorithms_and_DataStructure.git)
-    - 🚀 [FandomWiki - to link]()
+    - 🚀 [FandomWiki](https://github.com/GoldStygian/ProgettoOO.git)
     - 🔜 DietiEstates25, Work in progress
     - 🔜 LSO project, Work in progress
       
 - 🧑🏻‍💻 Personal project:
     - 🚀 []()
-
-- 📝 I regularly write articles on [University courses](https://informatica.dieti.unina.it)
 
 - ✍🏻 Perosnal notes:
     - []() 
@@ -33,9 +31,9 @@
 </div>
 
 ## Languages: 💻
-| C | C++ | Python | JavaScript | 
-|---|-----|--------|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+| C | C++ | Java | Python | JavaScript | prolog |
+|---|-----|------|--------|------------|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" width="55" height="55"/> |
 
 
 ### Tools & Frameworks: 🧰
@@ -47,7 +45,14 @@
 ### DB & ORM: 📦
 | SQLAlchemy | PostgreSQL | MySQL | MongoDB | Redshift | SQLServer | Databricks | Django ORM |
 |------------|----------|---------|---------|---------|---------|---------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> | <img src="" title="Redshift" alt="Redshift" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="SQLServer" alt="SQLServer" width="55" height="55"/> | <img src="https://asset.brandfetch.io/idSUrLOWbH/idUT__oJw_.png" title="Databricks" alt="Databricks" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django ORM" alt="Django ORM" width="55" height="55"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="55" height="55"/> 
+| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> 
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> 
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/> 
+| <img src="" title="Redshift" alt="Redshift" width="55" height="55"/> 
+| <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="SQLServer" alt="SQLServer" width="55" height="55"/> 
+| <img src="https://asset.brandfetch.io/idSUrLOWbH/idUT__oJw_.png" title="Databricks" alt="Databricks" width="55" height="55"/> 
+| <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django ORM" alt="Django ORM" width="55" height="55"/> |
 
 
 ### Environments, Testing, Other: 🧪
@@ -57,15 +62,15 @@
 
 
 ### OS: 🖥️
-| Mac | Linux | Ubuntu | Windows |
-|-------|--------|---------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Mac" alt="Mac" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
+| Linux | Windows |
+|-------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Mac" alt="Mac" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
 
 
 ### Cloud: 🌩️
-| AWS | Azure | Google Cloud |
-|-------|---------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="55" height="55"/> |
+| Azure |
+|-------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="55" height="55"/> |
 
 
 <h2 align="left">🌐 Connect with me:</h2>
