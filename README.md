@@ -38,3 +38,8 @@ I’m currently working/ed on **University's project**:
 | Django | Flutter |
 |--------|---------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="55" height="55"/>|
+
+### OS: 🖥️
+| Linux | Windows |
+|-|-|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Mac" alt="Mac" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
