@@ -43,3 +43,30 @@ I’m currently working/ed on **University's project**:
 | Linux | Windows |
 |-|-|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Mac" alt="Mac" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
+
+
+### Tools & Platforms: ⚙️
+| Docker | Git | GitHub | VS Code | Arduino | PostgreSQL |
+|--------|-----|--------|---------|---------|------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="55" height="55"/> |
+
+---
+
+### Operating Systems: 🖥️
+| Linux | Windows | Kali Linux | Linux Mint |
+|-------|---------|------------|------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linuxmint/linuxmint-original.svg" width="55" height="55"/> |
+
+---
+
+### Scripting & Shell: 📜
+| Bash | PowerShell |
+|------|------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="55" height="55"/> |
+
+---
+
+### Markup & Typesetting: 📄
+| HTML | LaTeX |
+|------|-------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="55" height="55"/> |
