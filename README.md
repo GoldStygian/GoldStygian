@@ -19,13 +19,12 @@ I’m currently working/ed on **University's project**:
 
 ## Statistics
 
-<h2 align="left">📌​ Stats:</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldStygian&layout=compact&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GoldStygian&show_icons=true&theme=radical&card_width=220" />
-</a><br><br>
+</a><br>
 
 ## Skills
 
@@ -61,4 +60,4 @@ I’m currently working/ed on **University's project**:
 
 ## 📫 How to reach me 
 - **raffa.raia@studenti.unina.it**
-- **proraiaraffaele2@gmail.com**
+- **proraiaraf********@gmail.com**
