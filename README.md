@@ -30,8 +30,8 @@ I’m currently working/ed on **University's project**:
 |<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="55" height="55"/>|
 
 ### Tools & Platforms: ⚙️
-| Docker | Git | GitHub | Arduino | PostgreSQL | Figma |
-|--------|-----|--------|---------|-----|-------|
+| Docker | Git | GitHub | Arduino | Postgre | Figma |
+|--------|-----|--------|---------|---------|-------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=figma" width="55" height="55"/>
 
 ### Scripting & Shell: 📜
@@ -45,7 +45,7 @@ I’m currently working/ed on **University's project**:
 | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="55" height="55"/> |
 
 ### Operating Systems: 🖥️
-| Linux | Windows | Kali Linux | Linux Mint | Ubuntu |
+| Linux | Windows | Kali | Mint | Ubuntu |
 |-------|---------|------------|------------|--------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=kali" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=mint" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=ubuntu" width="55" height="55"/>
 
