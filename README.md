@@ -11,6 +11,7 @@
 I’m currently working/ed on **University's project**:
 - 🚀 [LASD project](https://github.com/GoldStygian/Project_Laboratory_of_Algorithms_and_DataStructure.git)
 - 🚀 [OO-DB Project (FandomWiki)](https://github.com/GoldStygian/ProgettoOO.git)
+- 🚀 [PDC Project](https://github.com/GoldStygian/Project_Parallel-And_Distribuited_Computing)
 - 🔜 DietiEstates25, Work in progress
 - 🔜 LSO project, Work in progress
 
