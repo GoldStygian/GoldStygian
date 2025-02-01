@@ -45,9 +45,9 @@ I’m currently working/ed on **University's project**:
 | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="55" height="55"/> |
 
 ### Operating Systems: 🖥️
-| Linux | Windows | Kali Linux | Linux Mint |
-|-------|---------|------------|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=kali"> | <img src="https://github.com/devicons/devicon/blob/master/icons/linuxmint/linuxmint-original.svg" width="55" height="55"/> |
+| Linux | Windows | Kali Linux | Linux Mint | Ubuntu |
+|-------|---------|------------|------------|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=kali" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=mint" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=ubuntu" width="55" height="55"/>
 
 ## 📫 How to reach me 
 - **raffa.raia@studenti.unina.it**
