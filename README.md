@@ -19,7 +19,7 @@ I’m currently working/ed on **University's project**:
 
 - 📫 How to reach me **raffa.raia@studenti.unina.it** **proraiaraffaele2@gmail.com**
 
-### Skills
+## Skills
 
 <div align="center">
     <p align="center">
@@ -29,7 +29,7 @@ I’m currently working/ed on **University's project**:
     </p>
 </div>
 
-## Languages: 💻
+### Languages: 💻
 | C | C++ | Java | Python | JavaScript | prolog |
 |---|-----|------|--------|------------|--------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" width="55" height="55"/> |
