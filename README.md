@@ -30,9 +30,11 @@ I’m currently working/ed on **University's project**:
 </div>
 
 ### Languages: 💻
-| C | C++ | Java | Python | JavaScript | prolog | dart| 
+| C | C++ | Java | Python | JavaScript | prolog | dart|
+|---|----||--------|---------||--------|---------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="55" height="55"/>
 
 ### Framework
 | Django | Flutter |
-|<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="55" height="55"/>|
+|--------|---------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="55" height="55"/>|
