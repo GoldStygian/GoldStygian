@@ -19,7 +19,7 @@ I’m currently working/ed on **University's project**:
 
 - 📫 How to reach me **raffa.raia@studenti.unina.it** **proraiaraffaele2@gmail.com**
 
-## Skills
+### Skills
 
 <div align="center">
     <p align="center">
