@@ -50,9 +50,9 @@ I’m currently working/ed on **University's project**:
 | <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="55" height="55"/> |
 
 ### Markup & Typesetting: 📄
-| HTML | LaTeX |
-|------|-------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="55" height="55"/> |
+| HTML | LaTeX | CSS |
+|------|-------|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original.svg" width="55" height="55"/>
 
 ### Operating Systems: 🖥️
 | Linux | Windows | Kali | Mint | Ubuntu |
