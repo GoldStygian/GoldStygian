@@ -17,6 +17,7 @@ I’m currently working/ed on **University's project**:
 
 ## 🧑🏻‍💻 Personal project:
 - 🛠️ [Music Library](https://github.com/GoldStygian/Music_library.git)
+- 🛠️ [CLogger](https://github.com/GoldStygian/CLogger)
 
 ## Statistics
 
