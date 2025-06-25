@@ -36,9 +36,9 @@ I’m currently working/ed on **University's project**:
 | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="55" height="55"/>
 
 ### Framework Backend
-| Django |
-|--------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="55" height="55"/>|
+| Django | Express |
+|--------| --------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="55" height="55"/>|
 
 ### Framework Frontend
 | Angular | Flutter |
@@ -58,7 +58,7 @@ I’m currently working/ed on **University's project**:
 ### Markup & Typesetting: 📄
 | HTML | LaTeX | CSS |
 |------|-------|-----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="55" height="55"/> | [<img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original.svg" width="55" height="55"/>](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="55" height="55"/> |
 
 ### Operating Systems: 🖥️
 | Linux | Windows | Kali | Mint | Ubuntu |
