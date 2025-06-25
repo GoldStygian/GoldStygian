@@ -58,7 +58,7 @@ I’m currently working/ed on **University's project**:
 ### Markup & Typesetting: 📄
 | HTML | LaTeX | CSS |
 |------|-------|-----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original.svg" width="55" height="55"/>
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="55" height="55"/> | [<img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original.svg" width="55" height="55"/>](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)|
 
 ### Operating Systems: 🖥️
 | Linux | Windows | Kali | Mint | Ubuntu |
