@@ -28,12 +28,14 @@ I’m currently working/ed on **University's project**:
 
 ## Statistics
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldStygian&layout=compact&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GoldStygian&show_icons=true&theme=radical&card_width=220" />
-</a><br>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldStygian&layout=compact&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GoldStygian&show_icons=true&theme=radical&card_width=220" />
+  </a>
+</p>
 
 ## Skills
 
