@@ -1,15 +1,10 @@
-<h1 align="center">Hi I'm Raffaele Raia</h1>
-<h3 align="center">I am a student of the DEGREE COURSE IN COMPUTER SCIENCE AND TECHNOLOGY at the University of Naples Federico II. Destination Cybersecurity :computer: </h3>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+[![Matrix SVG](asset/boot.svg)](asset/boot.svg)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=GoldStygian&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=-1&theme=nord&no-bg=true&no-frame=true" alt="trophy" />
   </a>
 </p>
-
-[![Matrix SVG](asset/boot.svg)](asset/boot.svg)
   
 ## University's project
 I’m currently working/ed on **University's project**:
