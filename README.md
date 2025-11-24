@@ -1,5 +1,3 @@
-<h1 align="center">WORK IN PROGRES</h1>
-
 <h1 align="center">Hi I'm Raffaele Raia</h1>
 <h3 align="center">I am a student of the DEGREE COURSE IN COMPUTER SCIENCE AND TECHNOLOGY at the University of Naples Federico II. Destination Cybersecurity :computer: </h3>
 
@@ -11,7 +9,7 @@
   </a>
 </p>
 
-[![Matrix SVG](asset/matrix.svg)](asset/matrix.svg)
+[![Matrix SVG](asset/matrix.svg)](asset/boot.svg)
   
 ## University's project
 I’m currently working/ed on **University's project**:
