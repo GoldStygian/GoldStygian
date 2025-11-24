@@ -15,14 +15,14 @@
   
 ## University's project
 I’m currently working/ed on **University's project**:
-- 🚀 [LASD project](https://github.com/GoldStygian/Project_Laboratory_of_Algorithms_and_DataStructure.git)
-- 🚀 [OO-DB Project (FandomWiki)](https://github.com/GoldStygian/ProgettoOO.git)
-- 🚀 [PDC Project](https://github.com/GoldStygian/Project_Parallel-And_Distribuited_Computing)
-- 🚀 [Tecnologie Web Project](https://github.com/GoldStygian/Project-Tecnologie-Web)
-- 🔜 DietiEstates25, Work in progress
-- 🔜 LSO project, Work in progress
+- 🚀 [LASD](https://github.com/GoldStygian/Project_Laboratory_of_Algorithms_and_DataStructure.git)
+- 🚀 [OO-DB (FandomWiki)](https://github.com/GoldStygian/ProgettoOO.git)
+- 🚀 [PDC](https://github.com/GoldStygian/Project_Parallel-And_Distribuited_Computing)
+- 🚀 [Tecnologie Web](https://github.com/GoldStygian/Project-Tecnologie-Web)
+- 🚀 [ING SW (DietiEstates25)](https://github.com/GoldStygian/DietiEstates25)
+- 🚀 [LSO (Tic Tac Toe)](https://github.com/GoldStygian/LSO)
 
-## 🧑🏻‍💻 Personal project:
+## 🧑🏻‍💻 Public Personal project:
 - 🛠️ [Music Library](https://github.com/GoldStygian/Music_library.git)
 - 🛠️ [CLogger](https://github.com/GoldStygian/CLogger)
 
