@@ -1,0 +1,70 @@
+<svg width="700" height="500" viewBox="0 0 700 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="500" fill="#1C1C1C" rx="8" ry="8"/>
+
+  <style>
+    .terminal-window {
+      font-family: 'Fira Code', 'Roboto Mono', monospace;
+      font-size: 15px;
+      fill: #D4D4D4;
+    }
+    .line { 
+      opacity: 0; 
+      animation: fadeIn 0.4s forwards; 
+    }
+    .ok { fill: #00FF00; } /* OK in green */
+    .prompt { fill: #00BFFF; } /* Prompt in blue */
+    .user { fill: #FFD700; } /* User in gold */
+    .input { fill: #FFFFFF; } /* Input in white */
+    .output { fill: #D4D4D4; } /* Output in light grey */
+    .knowledge { fill: #9900FF; } /* Knowledge in purple */
+    .thought { fill: #FF69B4; } /* Thoughts in pink/hot-pink */
+    .cursor { 
+      fill: #D4D4D4; 
+      animation: blink 1s step-end infinite; 
+    }
+
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes blink { from, to { opacity: 0; } 50% { opacity: 1; } }
+    /* L'animazione di typing ora viene applicata direttamente alla tspan */
+  </style>
+
+  <text x="20" y="30" class="terminal-window line" style="animation-delay: 0s;">GNU/Linux (Arch-based Custom Build)</text>
+  <text x="20" y="50" class="terminal-window line" style="animation-delay: 0.3s;">Kernel 6.6.10-arch1-1 on x86_64</text>
+  <text x="20" y="70" class="terminal-window line" style="animation-delay: 0.6s;"></text>
+
+  <text x="20" y="90"  class="terminal-window line" style="animation-delay: 1s;">[ <tspan class="ok"> OK </tspan> ] Started udev Coldplug Helpers.</text>
+  <text x="20" y="110" class="terminal-window line" style="animation-delay: 1.3s;">[ <tspan class="ok"> OK </tspan> ] Found device /dev/sda1.</text>
+  <text x="20" y="130" class="terminal-window line" style="animation-delay: 1.6s;">[ <tspan class="ok"> OK </tspan> ] Reached target Local File Systems.</text>
+  <text x="20" y="150" class="terminal-window line" style="animation-delay: 1.9s;">[ <tspan class="ok"> OK </tspan> ] Reached target Time Synchronization.</text>
+  <text x="20" y="170" class="terminal-window line" style="animation-delay: 2.2s;">[ <tspan class="ok"> OK </tspan> ] Started Network Manager.</text>
+
+  <text x="20" y="190" class="terminal-window line knowledge" style="animation-delay: 2.8s;">[ <tspan class="ok"> OK </tspan> ] AI-Module: <tspan class="knowledge">Base Knowledge Loaded.</tspan></text>
+  <text x="20" y="210" class="terminal-window line knowledge" style="animation-delay: 3.3s;">[ <tspan class="ok"> OK </tspan> ] NLP-Engine: <tspan class="knowledge">Natural Language Activated.</tspan></text>
+
+  <text x="20" y="250" class="terminal-window line" style="animation-delay: 4.5s;">Welcome back, r4ff4. System operational.</text>
+  <text x="20" y="270" class="terminal-window line" style="animation-delay: 4.8s;"></text>
+
+
+  <text x="20" y="290" class="terminal-window line" style="animation-delay: 5s;">
+    <tspan class="user">r4ff4</tspan>@<tspan class="prompt">linux</tspan>:<tspan class="prompt">~</tspan>$
+    <tspan id="input1" class="input" style="display:inline-block; overflow:hidden; white-space:pre; width:0ch; animation: typing 2s steps(20) forwards; animation-delay: 5.5s;"> cat /home/r4ff4/me</tspan>
+    <tspan class="cursor" x="250" y="290" style="animation-delay: 7.5s;">|</tspan>
+  </text>
+  <text x="20" y="310" class="terminal-window line output" style="animation-delay: 8s;">Hi, I'm Raffaele</text>
+
+  <text x="20" y="350" class="terminal-window line" style="animation-delay: 8.5s;">
+    <tspan class="user">r4ff4</tspan>@<tspan class="prompt">linux</tspan>:<tspan class="prompt">~</tspan>$
+    <tspan id="input2" class="input" style="display:inline-block; overflow:hidden; white-space:pre; width:0ch; animation: typing 1.5s steps(9) forwards; animation-delay: 9s;"> neofetch</tspan>
+    <tspan class="cursor" x="150" y="350" style="animation-delay: 10.5s;">|</tspan>
+  </text>
+  <text x="20" y="370" class="terminal-window line output" style="animation-delay: 11s;">OS: Arch Linux x86_64</text>
+  <text x="20" y="390" class="terminal-window line output" style="animation-delay: 11.2s;">Kernel: 6.6.10-arch1-1</text>
+  <text x="20" y="410" class="terminal-window line output" style="animation-delay: 11.4s;">Uptime: 0m</text>
+  <text x="20" y="430" class="terminal-window line output" style="animation-delay: 11.6s;">Packages: 1200 (pacman)</text>
+
+  <text x="20" y="470" class="terminal-window line" style="animation-delay: 12s;">
+    <tspan class="user">r4ff4</tspan>@<tspan class="prompt">linux</tspan>:<tspan class="prompt">~</tspan>$
+    <tspan id="input3" class="input" style="display:inline-block; overflow:hidden; white-space:pre; width:0ch; animation: typing 1s steps(5) forwards; animation-delay: 12.5s;"> clear</tspan>
+    <tspan class="cursor" x="100" y="470" style="animation-delay: 13.5s;">|</tspan>
+  </text>
+</svg>
