@@ -48,14 +48,13 @@
   <text x="20" y="290" class="terminal-window line" style="animation-delay: 5s;">
     <tspan class="user">r4ff4</tspan>@<tspan class="prompt">linux</tspan>:<tspan class="prompt">~</tspan>$
     <tspan id="input1" class="input" style="display:inline-block; overflow:hidden; white-space:pre; width:0ch; animation: typing 2s steps(20) forwards; animation-delay: 5.5s;"> cat /home/r4ff4/me</tspan>
-    <tspan class="cursor" x="250" y="290" style="animation-delay: 7.5s;">|</tspan>
   </text>
   <text x="20" y="310" class="terminal-window line output" style="animation-delay: 8s;">Hi, I'm Raffaele<text></text>I am a student of the DEGREE COURSE IN COMPUTER SCIENCE AND TECHNOLOGY at the University of Naples Federico II. Destination Cybersecurity</text>
-
+  <text x="20" y="310" class="terminal-window line output" style="animation-delay: 8.2s;">I am a student of the DEGREE COURSE IN COMPUTER SCIENCE AND TECHNOLOGY at the University of Naples Federico II. Destination Cybersecurity</text>
+  
   <text x="20" y="350" class="terminal-window line" style="animation-delay: 8.5s;">
     <tspan class="user">r4ff4</tspan>@<tspan class="prompt">linux</tspan>:<tspan class="prompt">~</tspan>$
     <tspan id="input2" class="input" style="display:inline-block; overflow:hidden; white-space:pre; width:0ch; animation: typing 1.5s steps(9) forwards; animation-delay: 9s;"> neofetch</tspan>
-    <tspan class="cursor" x="150" y="350" style="animation-delay: 10.5s;">|</tspan>
   </text>
   <text x="20" y="370" class="terminal-window line output" style="animation-delay: 11s;">OS: Arch Linux x86_64</text>
   <text x="20" y="390" class="terminal-window line output" style="animation-delay: 11.2s;">Kernel: 6.6.10-arch1-1</text>
@@ -65,6 +64,5 @@
   <text x="20" y="470" class="terminal-window line" style="animation-delay: 12s;">
     <tspan class="user">r4ff4</tspan>@<tspan class="prompt">linux</tspan>:<tspan class="prompt">~</tspan>$
     <tspan id="input3" class="input" style="display:inline-block; overflow:hidden; white-space:pre; width:0ch; animation: typing 1s steps(5) forwards; animation-delay: 12.5s;"> clear</tspan>
-    <tspan class="cursor" x="100" y="470" style="animation-delay: 13.5s;">|</tspan>
   </text>
 </svg>
