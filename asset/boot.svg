@@ -1,5 +1,5 @@
-<svg width="1080" height="500" viewBox="0 0 700 500" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="700" height="500" fill="#1C1C1C" rx="8" ry="8"/>
+<svg width="1080" height="500" viewBox="0 0 1080 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="500" fill="#1C1C1C" rx="8" ry="8"/>
 
   <style>
     .terminal-window {
@@ -50,7 +50,7 @@
     <tspan id="input1" class="input" style="display:inline-block; overflow:hidden; white-space:pre; width:0ch; animation: typing 2s steps(20) forwards; animation-delay: 5.5s;"> cat /home/r4ff4/me</tspan>
     <tspan class="cursor" x="250" y="290" style="animation-delay: 7.5s;">|</tspan>
   </text>
-  <text x="20" y="310" class="terminal-window line output" style="animation-delay: 8s;">Hi, I'm Raffaele</text>
+  <text x="20" y="310" class="terminal-window line output" style="animation-delay: 8s;">Hi, I'm Raffaele<text></text>I am a student of the DEGREE COURSE IN COMPUTER SCIENCE AND TECHNOLOGY at the University of Naples Federico II. Destination Cybersecurity</text>
 
   <text x="20" y="350" class="terminal-window line" style="animation-delay: 8.5s;">
     <tspan class="user">r4ff4</tspan>@<tspan class="prompt">linux</tspan>:<tspan class="prompt">~</tspan>$
