@@ -9,7 +9,7 @@
   </a>
 </p>
 
-[![Matrix SVG](asset/matrix.svg)](asset/boot.svg)
+[![Matrix SVG](asset/boot.svg)](asset/boot.svg)
   
 ## University's project
 I’m currently working/ed on **University's project**:
