@@ -68,5 +68,6 @@ I’m currently working/ed on **University's project**:
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=kali" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=mint" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=ubuntu" width="55" height="55"/>
 
 ## 📫 How to reach me 
-- **raffa.raia@studenti.unina.it**
-- **proraiaraf********@gmail.com**
+<a href="mailto:raffaele.raia.work@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+<a href="https://www.linkedin.com/in/raffaeleraia/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+
