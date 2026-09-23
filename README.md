@@ -27,8 +27,9 @@ Durante il mio percorso ho sviluppato solide basi in strutture dati, ingegneria 
 ## Statistics
 
 <p align="center">
-    <img src="undefined" alt="GitHub statistics" height="200" align="center">
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoldStygian&layout=compact&theme=radical" alt="GitHub statistics" height="200" align="center">
+    <img src="https://github-stats-extended.vercel.app/api?username=GoldStygian&show_icons=true&theme=radical" alt="GitHub statistics" height="200" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GoldStygian&theme=2077" alt="GitHub statistics" height="200" align="center">
 </p>
 
 ## Skills
